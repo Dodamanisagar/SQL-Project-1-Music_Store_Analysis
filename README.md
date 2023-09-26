@@ -15,4 +15,11 @@ This project will teach you how to analyze the music playlist database. You can 
 * PgAdmin4
 
 #Schema- Music Store Database
+
+
+
+
+
+
+
 ![2- MusicDatabaseSchema](https://github.com/Dodamanisagar/SQL-Project-1-Music_Store_Analysis/assets/99800998/c1f0fd33-aa08-4223-94bf-3d7e0992edb3)
